@@ -26,5 +26,6 @@ A real-time ASL (American Sign Language) to text and speech web app. It uses you
 ![](https://nirzak-streak-stats.vercel.app/?user=tejashyamehta&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejashyamehta&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
+<h2 align="center"><b>Visitor's Count</b></h2>
+<p align="center"><img src="https://profile-counter.glitch.me/tejashyamehta/count.svg" alt="visitor badge"/></p>
 
